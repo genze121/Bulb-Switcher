@@ -10,3 +10,7 @@
 
 ![Screenshot 2024-06-25 210734](https://github.com/genze121/Bulb-Switcher/assets/45147588/bae84741-623c-4297-b07f-bfb812df1ffe)
 
+----
+
+Credits: [Tirtha Sharma](https://github.com/genze121 "Tirtha Sharma")
+
